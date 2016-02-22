@@ -1,9 +1,5 @@
 import unittest
-import os
-import sys
-sys.path.append(os.getcwd())
-
-import example2Code
+import exampleCode
 
 class TestStringMethods(unittest.TestCase):
 	
